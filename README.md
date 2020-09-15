@@ -1,4 +1,4 @@
-# sense4
+# sense4-rakuten
 
 ## Project setup
 ```
